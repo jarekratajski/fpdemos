@@ -4,8 +4,8 @@ import java.math.BigDecimal;
 
 public class PersonImmutable {
     public final String firstName;
-    public final  String lastName;
-    public final  BigDecimal salary;
+    public final String lastName;
+    public final BigDecimal salary;
 
     public PersonImmutable(String firstName, String lastName, BigDecimal salary) {
         this.firstName = firstName;

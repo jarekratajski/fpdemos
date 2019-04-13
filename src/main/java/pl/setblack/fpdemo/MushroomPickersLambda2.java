@@ -7,7 +7,7 @@ import java.util.function.Function;
 
 public class MushroomPickersLambda2 {
     public static void main(String[] args) {
-        //take mushrooms from the baskests,
+        //take mushrooms from the baskets,
         // but not more than 20 from each
         final List<Integer> mushrooms = new ArrayList<>(
                 Arrays.asList(14, 52, 31, 62, 71, 22, 34));

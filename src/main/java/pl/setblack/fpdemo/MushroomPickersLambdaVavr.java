@@ -5,7 +5,7 @@ import io.vavr.collection.List;
 
 public class MushroomPickersLambdaVavr {
     public static void main(String[] args) {
-        //take mushrooms from the baskests,
+        //take mushrooms from the baskets,
         // but not more than 20 from each
         final List<Integer> mushrooms = List.of(14, 52, 31, 62, 71, 22, 3);
 
